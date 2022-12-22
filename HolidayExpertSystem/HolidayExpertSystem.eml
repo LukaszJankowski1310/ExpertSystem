@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/HolidayExpertSystem"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="CLIPSJNI.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/CLIPSJNI/lib/CLIPSJNI.jar!/"/>
+	</lib>
+</component>
