@@ -1,4 +1,4 @@
-# ExpertSystem
+cx# ExpertSystem
 
 ## Autorzy:
 - Łukasz Jankowski 148081
